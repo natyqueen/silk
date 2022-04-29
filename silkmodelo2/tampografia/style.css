@@ -1,0 +1,46 @@
+body{
+margin: 5%;
+}
+.principal{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+
+.imagens{
+    width: 300px;
+    height: 400px;
+
+}
+
+.controle{
+    display: flex;
+    justify-content: center;
+        width: 400px;
+        height: 500px;
+        background-image: url(/tampografia/fotos/20191119_125706.jpg);
+        color: #ffffff;
+        background-size: 400px 500px
+}
+
+.tampinha{
+    display: flex;
+    justify-content: center;
+        width: 400px;
+        height: 500px;
+        background-image: url(/tampografia/fotos/20191119_130103.jpg);
+        color: #ffffff;
+        background-size: 400px 500px
+}
+
+.canetas{
+    display: flex;
+    justify-content: center;
+        width: 400px;
+        height: 500px;
+        background-image: url(/tampografia/fotos/20191120_192152.jpg);
+        color: #ffffff;
+        background-size: 400px 500px
+}
